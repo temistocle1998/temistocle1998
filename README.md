@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Mamadou lamine Bèye](https://lamine.devops.tech/),a self-taught web developer passionate about freelance devops tools from Senegal.
+Hi, I'm [Mamadou lamine Bèye](https://lamine.devops.tech/),a self-taught web developer passionate about devops tools from Senegal.
 
 I am also an open source enthusiast and maintainer. I learned a lot from the open-source community and love how the collaboration and knowledge sharing went through open-source.
 
