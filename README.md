@@ -4,8 +4,8 @@
 <a href="https://twitter.com/laminebeye">
   <img align="left" alt="Mamadou lamine Beye | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/laminebeye/">
-  <img align="left" alt="Mamadou lamine Beye's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://sn.linkedin.com/in/mamadou-lamine-beye-866900189">
+  <img align="left" alt="Mamadou lamine Beye's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=temistocle1998.temistocle1998)
